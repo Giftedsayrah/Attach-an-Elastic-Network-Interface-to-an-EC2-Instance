@@ -1,4 +1,4 @@
-# Attach-an-Elastic-Network-Interface-ENI-to-an-EC2-Instance
+# Attach-an-Elastic-Network-Interface-to-an-EC2-Instance
 
 This guide demonstrates how to attach an existing **Elastic Network Interface (ENI)** to an existing **EC2 instance** using the **AWS Management Console (GUI)**.
 
