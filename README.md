@@ -48,7 +48,7 @@ It allows you to assign IP addresses, security groups, and network settings inde
 ![Step](images/step6-instance-networking.png)
 
 ## Notes
-- Elastic Network Interfaces allow EC2 instances to have multiple network interfaces for use cases such as:
+Elastic Network Interfaces allow EC2 instances to have multiple network interfaces for use cases such as:
   - Network isolation
   - High availability
   - Traffic separation
