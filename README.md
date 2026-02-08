@@ -9,7 +9,7 @@ It allows you to assign IP addresses, security groups, and network settings inde
 1. Log in to the **AWS Management Console**
 2. Navigate to **Services → EC2**
 3. Click **Instances**
-4. Select the instance **`devops-ec2`**
+4. Select the instance of you want to use, in this case my own is **`devops-ec2`**
 5. Confirm:
    - Instance state is **Running**
    - Status checks show **2/2 checks passed**
@@ -19,7 +19,7 @@ It allows you to assign IP addresses, security groups, and network settings inde
 ## Step 2: Navigate to Network Interfaces
 1. In the EC2 dashboard sidebar, scroll to **Network & Security**
 2. Click **Network Interfaces**
-3. Locate the ENI named **`devops-eni`**
+3. Locate the ENI that you want to attach to the instance
 4. Confirm the status is **Available**
 
 ![Step](images/step2-network-interface.png)
