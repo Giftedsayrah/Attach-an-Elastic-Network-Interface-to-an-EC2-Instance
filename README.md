@@ -25,10 +25,10 @@ It allows you to assign IP addresses, security groups, and network settings inde
 ![Step](images/step2-network-interface.png)
 
 ## Step 3: Attach the ENI to the EC2 Instance
-1. Select **`devops-eni`**
+1. Select the ENI
 2. Click **Actions → Attach**
 3. In the attach dialog:
-   - **Instance**: `devops-ec2`
+   - **Instance**: 
 4. Click **Attach**
 
 ![Step](images/step3-attach-eni.png)
